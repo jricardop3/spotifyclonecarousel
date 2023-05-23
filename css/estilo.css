@@ -63,6 +63,9 @@ nav.navbar-transparente {
 	background-color: white;
 	color: black;
 }
+.carousel-control-next, .carousel-control-prev {
+	width: 7%;
+}
 /*******************************************************
 ***** Estrutura de conteudo ***/
 #servicos {
